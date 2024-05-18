@@ -104,6 +104,6 @@ GET /api/v1/levels/export/?user_id=<user_id>&format_type=<format_type>
    * Add more comprehensive validation for input data to ensure data integrity.
 7. Documentation:
    * Use tools like Swagger or Redoc to generate interactive API documentation.
-
+8. Create Env Variables for constants, secrets, etc.
 
 By implementing these improvements, we can enhance the functionality, security, and performance of this small project, making it more robust and scalable.
